@@ -10,7 +10,7 @@
 
 | Commit | 日期 | 说明 |
 |--------|------|------|
-| （首次提交进行中） | 2026-09-27 | Tree ensemble XGBoost 复刻 + interaction/clustering 章节；测试已通过 |
+| `1798a0d` | 2026-09-27 | 首次提交：Tree ensemble XGBoost 复刻图 + SHAP interaction / explanation clustering；commit.md 测试通过后提交 |
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### 2026-09-27 — 增加 interaction / explanation clustering 章节
 
-**状态：** 实现后按 commit.md 测试，再 commit 并 push。
+**状态：** 已 commit `1798a0d`，测试通过。
 
 **新增：**
 
