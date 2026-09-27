@@ -1,0 +1,8 @@
+shap
+xgboost
+matplotlib
+pandas
+numpy
+scikit-learn
+ipykernel
+nbconvert
