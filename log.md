@@ -10,7 +10,7 @@
 
 | Commit | 日期 | 说明 |
 |--------|------|------|
-| （待推送） | 2026-09-27 | 开头增加回归 + Precision/Recall/F1 评估；指标测试通过后推送 |
+| `8d67314` | 2026-09-27 | 开头增加回归 + Precision/Recall/F1 评估；指标测试通过后推送 |
 | `edd1848` | 2026-09-27 | 在 log.md 记入首次提交 hash |
 | `1798a0d` | 2026-09-27 | 首次提交：Tree ensemble XGBoost 复刻图 + SHAP interaction / explanation clustering；commit.md 测试通过后提交 |
 
@@ -18,7 +18,7 @@
 
 ### 2026-09-27 — 开头增加模型评估指标章节
 
-**状态：** notebook 已改；未要求本次 commit。
+**状态：** 指标测试通过；已 commit `8d67314` 并 push。
 
 **新增（训练之后、SHAP 之前）：**
 
